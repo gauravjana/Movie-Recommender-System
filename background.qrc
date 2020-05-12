@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Movie+Recommendation+System.jpg</file>
+  </qresource>
+  <qresource prefix="3">
+    <file>photo-1523878288860-7ad281611901.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>abstract-gray-background-260nw-508982365.webp</file>
+  </qresource>
+</RCC>
